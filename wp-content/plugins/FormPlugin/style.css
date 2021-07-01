@@ -1,0 +1,24 @@
+.content {
+    display: flex;
+    padding: 50px 100px;
+    justify-content: space-between;
+}
+
+.preview {
+    display: flex;
+    flex-direction: column;
+}
+
+.displayInput {
+    display: none;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
